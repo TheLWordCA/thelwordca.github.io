@@ -37,3 +37,28 @@ nav li a {
 .logo-container img {
     max-width: 100%;
 }
+
+/* Home page */
+.main-content {
+    background-color: rgb(152, 133, 172, 0.5);
+}
+.sidebar {
+    background-color: rgb(253, 250, 245);
+}
+.content-box {
+    width: fit-content;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(161, 107, 196);
+    border-radius: 0px;
+    margin: 20px auto;
+}
+
+.sidebar {
+    padding-top: 20px;
+}
+
+.image {
+    max-width: 100%;
+}

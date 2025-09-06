@@ -7,16 +7,19 @@
     <meta name="description" content="The L Word">
     <meta name="author" content="">
     <title>The L Word - Newsletter</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="app.css">
+
+    <script src="content/events.js"></script>
 </head>
 
 <body>
-    <script id="replace_with_navbar" src="nav.js"></script>
     <nav class="navbar" role="navigation">
         <div class="container">
             <ul class="nav navbar-nav d-flex flex-row justify-content-around flex-wrap">
-                <li class="active" ><a class="btn btn-outline-primary" href="index.html">Home</a></li>
+                <li class="active"><a class="btn btn-outline-primary" href="index.html">Home</a></li>
                 <li><a class="btn btn-outline-primary" href="calendar.html">Calendar</a></li>
                 <li><a class="btn btn-outline-primary" href="resources.html">Resources</a></li>
                 <li><a class="btn btn-outline-primary" href="history.html">History</a></li>
@@ -25,9 +28,39 @@
         </div>
     </nav>
     <div class="container logo-container d-flex justify-content-center">
-        <img src="images/logo.png"/>
+        <img src="images/logo.png" />
     </div>
-    <div class="container content-container" id="home"> 
+    <div class="container content-container" id="home">
+        <div class="row">
+            <div class="col-8 main-content">
+                <div class="content-box">
+                    <h2>Featured Events</h2>
+                </div>
 
+                <div id="events-container"></div>
+            </div>
+            <div class="col-4 sidebar">
+                <b><i>The L‐Word</i></b> is a lesbian-feminist newsletter for the North Coast queer community and our friends, published monthly in Humboldt County CA since 1988.
+                <img class="image content-box" src="images/lesbians.png" />
+                <p>Help keep us publishing!</p>
+                <p class="text-center">Donate <a href="https://www.zeffy.com/en-US/donation-form/support-our-newsletter" target="_blank">here!</a></p>
+                <p>Pay for subscriptions and ads;<br/> donate to the newsletter or the Lesbian Emergency Fund.</p>
+            </div>
+        </div>
     </div>
 </body>
+
+<script>
+    let container = document.getElementById("events-container");
+    let htmlContent = "";
+    console.log(events.events);
+    for (let i = 0; i < events.events.length; i++) {
+        let content = events.events[i];
+        let title = content.title;
+        let body = content.body;
+
+        htmlContent += `<div class="content-box" ><h2>`+title+`</h2><p>`+body+`</p></div>`
+    }
+    console.log(htmlContent);
+    container.innerHTML = htmlContent;
+</script>
