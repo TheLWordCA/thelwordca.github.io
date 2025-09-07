@@ -62,3 +62,33 @@ nav li a {
 .image {
     max-width: 100%;
 }
+
+/*
+    Calendar
+*/
+#calendar {
+    background-color: rgb(152, 133, 172, 0.5);
+}
+#calendar .navbar {
+    background-color: unset;
+}
+.calendar-img {
+    max-width: 60%;
+}
+#calendar-container {
+    width: 80%;
+}
+#radio-container {
+    margin-top: unset;
+    width: 80%;
+}
+.radio-heading {
+    margin-left: 10%;
+    margin-bottom: unset;
+    height: fit-content;
+    margin-top: auto;
+}
+.radio-img {
+    height: 120px;
+    margin-right: 10%;
+}

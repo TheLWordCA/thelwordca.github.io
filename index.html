@@ -53,7 +53,6 @@
 <script>
     let container = document.getElementById("events-container");
     let htmlContent = "";
-    console.log(events.events);
     for (let i = 0; i < events.events.length; i++) {
         let content = events.events[i];
         let title = content.title;
@@ -61,6 +60,5 @@
 
         htmlContent += `<div class="content-box" ><h2>`+title+`</h2><p>`+body+`</p></div>`
     }
-    console.log(htmlContent);
     container.innerHTML = htmlContent;
 </script>
