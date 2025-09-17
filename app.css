@@ -92,3 +92,35 @@ nav li a {
     height: 120px;
     margin-right: 10%;
 }
+
+/*
+Local Resources
+*/
+
+.resources-header {
+    padding: 0 50px;
+}
+.main-content {
+    text-align: left;
+    padding-bottom: 30px;
+}
+.resources-header.content-box {
+    margin-top: unset;
+}
+.resources-top {
+    padding-top: 35px;
+}
+.resources-left-content .resources-subhead{
+    margin-right: unset;
+    margin-left: unset;
+}
+.resources-subhead {
+    margin-bottom: unset;
+}
+.resources-left-content .content-box {
+    margin-left: unset;
+    margin-right: unset;
+}
+#lesbian-container, #queer-container, #helplines-container, #more-container {
+    margin-top: unset;
+}
