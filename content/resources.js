@@ -5,6 +5,8 @@ lesbianWomenContent = [
     "Lesbian Connection"
     "CPH Women’s Resource Center 826 4216 menstrual & safer sex supplies; events."
     "Breast & GYN Health Project Help finding preventative breast health & navigating breast or gynecologic cancers. 825 8345"
+    "Planned Parenthood Eureka preventative, gynecological, reproductive, and gender affirming care; medical & surgical abortions. 442 5700."
+    "Arcata Community Health Center preventative, gynecological, & gender affirming care. 826 8610"
 
 
 queerContent = [
