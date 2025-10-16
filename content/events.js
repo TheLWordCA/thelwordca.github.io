@@ -6,7 +6,7 @@ events = {
         },
        {
             "title": "Celebrate Queer History",
-            "body": "Queer Humboldt, the Eric Rofes center at Cal Poly Humboldt and Equity Arcata are inviting us to a Queer History Party. Lots of community groups with activities (the LWord will have coloring sheets of historic Pride drawings--to help table, email suejh@humboldt1.com), a costume contest for "Favorite Queer Person from History" (Herstory, Theirstory...), a drag show, and food and drink trucks. Sunday October 26, 4-7 pm, D street Neighborhood Center in Arcata. info Aisha@queerhumboldt.org."
+            "body": "Queer Humboldt, the Eric Rofes center at Cal Poly Humboldt and Equity Arcata are inviting us to a Queer History Party. Lots of community groups with activities, a costume contest for Favorite Queer Person from History, a drag show, and food and drink trucks.  The LWord will have coloring sheets of historic Pride drawings--to help table, email suejh@humboldt1.com. Sunday October 26, 4-7 pm, D street Neighborhood Center in Arcata. info Aisha@queerhumboldt.org."
         },
     ]
 };
