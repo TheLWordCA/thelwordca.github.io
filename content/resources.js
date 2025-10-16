@@ -21,7 +21,8 @@ queerContent = [
 
 helplinesContent = [
     "Raven Youth Services for ages 16­25. Services include housing assistance. 24hr hotline 707­444­2273.",
-    "two"
+    "two",
+    "this is a test"
 ];
 
 moreContent = [
