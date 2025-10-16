@@ -5,7 +5,7 @@ lesbianWomenContent = [
     "CPH Women’s Resource Center 826 4216 menstrual & safer sex supplies; events.",
     "Breast & GYN Health Project Help finding preventative breast health & navigating breast or gynecologic cancers. 825 8345",
     "Planned Parenthood Eureka preventative, gynecological, reproductive, and gender affirming care; medical & surgical abortions. 442 5700.",
-    "Arcata Community Health Center preventative, gynecological, & gender affirming care. 826 8610",
+    "Arcata Community Health Center preventative, gynecological, & gender affirming care. 826 8610"
 ];
 
 queerContent = [
@@ -16,7 +16,7 @@ queerContent = [
     "College of the Redwoods Queer Students Union, weekly when school is in session. 476 4255",
     "Cal Poly Humboldt: Queer Students Union, QWEERS (queer staff), and Eric Rofes Center for Multicultural Queer Studies NH east rm 102",
     "Eureka Sisters of Perpetual Indulgence. Meetings 1st Sat. 11 am 1000 B Eureka",
-    "Northcoast AIDS project Preventative care for all; comprehensive services for people with HIV or AIDS. 268 2132.",
+    "Northcoast AIDS project Preventative care for all; comprehensive services for people with HIV or AIDS. 268 2132."
 ];
 
 helplinesContent = [
