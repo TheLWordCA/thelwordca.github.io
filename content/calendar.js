@@ -5,4 +5,14 @@ calendar = [
     'October 18 - Honoring Us, 7pm-1pm, Arcata Playhouse',
     'October 24 - Queer Poetry workshop, 5:30-7:30 pm alexis@queerhumboldt.org',
     'October 24- Healing from Harm in Intimate Relationships, 5:30p Aisha@queerhumboldt.org',
+    'Oct 25 - 11 am Dyke Hike 707 822-3405,
+    'Oct 25- Party in Pink Zumbathon for BGHP Adorni Center Eka 2 pm,
+    'Oct 26 - Sapphic Swim noon Avril 707 497 0049,
+    'Oct 26 4-7 pm Queer History Celebration, 1301 D. street Arcata, 
+    'Oct 26 - L-Word layout and deadline 822-3405,
+    'Oct 26 -Intersex Awareness Day,
+    'Oct. 29 - Queer Climb Far North Gym Arcata 6p,
+    'Oct. 30 - Dia de Los Muertos masked parade Old Town Eureka 6 pm,
+    'Oct 30 - Out for Business LGBTQ mixer Phatsy Kline's Lounge 5-7 pm 129 2nd Eureka, 
+    'Oct 31 - Happy Halloween!'
 ];
