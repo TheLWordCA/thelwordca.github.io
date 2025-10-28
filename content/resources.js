@@ -1,5 +1,5 @@
 lesbianWomenContent = [
-    "<u>Lesbian Emergency Fund</u> <a href="mailto:chloeqc@protonmail.com>email Chloe</a> regarding small grants to local lesbians/queer women in any kind of crises.",
+    "<u>Lesbian Emergency Fund</u><a href="mailto:chloeqc@protonmail.com>email Chloe</a> regarding small grants to local lesbians/queer women in any kind of crises.",
     "LWord Digital Archive back issues (currently 1988 - 91) digitalcommons.humboldt.edu/l word",
     "Lesbian Connection",
     "CPH Women’s Resource Center 826-4216 menstrual & safer sex supplies; events.",
@@ -20,7 +20,7 @@ queerContent = [
 ];
 
 helplinesContent = [
-    "Raven Youth Services for ages 16-­25. Services include housing assistance. 24hr hotline 707-­444-­2273.",
+    "Raven Youth Services for ages 16-­25. Services include housing assistance. 24hr hotline 707-­444-­2273."]
     "two",
     "this is a test"
 ];
