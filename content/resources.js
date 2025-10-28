@@ -10,7 +10,7 @@ lesbianWomenContent = [
 
 queerContent = [
     "Queer Humboldt individual therapy, support groups, community events, and more including a hate event reporting portal.",
-    "Redwood Pride supporting and building LGBTQIA community. 1st & 3rd Sunday except January 12 - 2 pm Jefferson Center, 1000 B st. Eureka."
+    "Redwood Pride supporting and building LGBTQIA community. 1st & 3rd Sunday except January 12 - 2 pm Jefferson Center, 1000 B st. Eureka.",
     "Lost Coast Pride Pride Ride and Ferndale Pride march.",
     "Del Norte LGBTQ.org: resources and info, Pride & other events, weekly gatherings and more",
     "College of the Redwoods Queer Students Union, weekly when school is in session. 476 4255",
