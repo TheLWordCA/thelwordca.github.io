@@ -1,11 +1,11 @@
 lesbianWomenContent = [
     'Lesbian Emergency Fund <a href="mailto:chloeqc@protonmail.com">email Chloe</a> regarding small grants to local lesbians/queer women in any kind of crises.',
-    'LWord Digital Archive back issues (currently 1988 - 91) <a href="https://digitalcommons.humboldt.edu/l-word/">lword archive at Cal Poly Humboldt</a>',
-    'Lesbian Connection - free worldwide forum of news & ideas for by and about lesbians <a href="https://www.lconline.org/">lconline.org</a>',
-    "CPH Women’s Resource Center 826-4216 menstrual & safer sex supplies; events.",
-    "Breast & GYN Health Project Help finding preventative breast health & navigating breast or gynecologic cancers. 707 825-8345",
-    "Planned Parenthood Eureka preventative, gynecological, reproductive, and gender affirming care; medical & surgical abortions. 707 442-5700.",
-    "Arcata Community Health Center preventative, gynecological, & gender affirming care. 707 826-8610",
+    '<a href="https://digitalcommons.humboldt.edu/l-word/"</a> LWord Digital Archive back issues (currently 1988 - 93)',
+    '<a href= "https://www.lconline.org/"Lesbian Connection</a> - free worldwide forum of news & ideas for by and about lesbians,
+    '<a href= "https://www.humboldt.edu/womens-resource-center"CPH Women’s Resource Center</a> 826-4216 menstrual & safer sex supplies; events.',
+    '<a href= "https://bghp.org/"Breast & GYN Health Project</a> Help finding preventative breast health & navigating breast or gynecologic cancers. 707 825-8345',
+    '<a href= "https://www.plannedparenthood.org/health-center/california/eureka/95503/eureka-health-center-2301-90200"Planned Parenthood Eureka</a> preventative, gynecological, reproductive, and gender affirming care; medical & surgical abortions. 707 442-5700.',
+    '<a href= "https://opendoorhealth.com/locations/arcata-community-health-centers-center/"Arcata Community Health Center</a> preventative, gynecological, & gender affirming care. 707 826-8610',
 ];
 
 queerContent = [
