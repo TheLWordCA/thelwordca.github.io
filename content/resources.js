@@ -14,8 +14,8 @@ queerContent = [
     '<a href="mailto:HumboldtsPride@gmail.com">Lost Coast Pride</a> Pride Ride and Ferndale Pride march.',
     '<a href="https://www.dnlgbtq.org/">Del Norte LGBTQ Resources Project</a> resources and info. Pride & other events. weekly gatherings and more',
     'College of the Redwoods Queer Students Union, weekly when school is in session. 707 476-4255',
-    'Cal Poly Humboldt<a href="mailto:qsu@humboldt.edu">Queer Students Union</a>, <a href=https://www.humboldt.edu/qweerss>QWEERSS</a> (queer staff), and <a href="https://www.humboldt.edu/erc">Eric Rofes Center</a>',
-    '<a href="https://www.eurekasisters.org/">Eureka Sisters</a>of Perpetual Indulgence. Meetings 1st Sat. 11am 1000 B Eureka,
+    'Cal Poly Humboldt<a href="mailto:qsu@humboldt.edu">Queer Students Union</a>, <a href="https://www.humboldt.edu/qweerss">QWEERSS</a> (queer staff), and <a href="https://www.humboldt.edu/erc">Eric Rofes Center</a>',
+    '<a href="https://www.eurekasisters.org/">Eureka Sisters</a> of Perpetual Indulgence. Meetings 1st Sat. 11am 1000 B Eureka',
     '<a href="https://humboldtgov.org/620/North-Coast-AIDS-Project-NorCAP">Northcoast AIDS project</a> Preventative care for all. Comprehensive services for people with HIV or AIDS. 707 268-2132.',
 ];
 
