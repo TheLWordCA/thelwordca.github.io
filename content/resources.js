@@ -16,7 +16,7 @@ queerContent = [
     'College of the Redwoods Queer Students Union, weekly when school is in session. 707 476-4255',
     'Cal Poly Humboldt<a href="mailto:qsu@humboldt.edu">Queer Students Union</a>, <a href="https://www.humboldt.edu/qweerss">QWEERSS</a> (queer staff), and <a href="https://www.humboldt.edu/erc">Eric Rofes Center</a>',
     '<a href="https://www.eurekasisters.org/">Eureka Sisters</a> of Perpetual Indulgence. Meetings 1st Sat. 11am 1000 B Eureka',
-    '<a href="https://humboldtgov.org/620/North-Coast-AIDS-Project-NorCAP">Northcoast AIDS project</a> Preventative care for all. Comprehensive services for people with HIV or AIDS. 707 268-2132.'
+    '<a href="https://humboldtgov.org/620/North-Coast-AIDS-Project-NorCAP">Northcoast AIDS project</a> Preventative care for all. Comprehensive services for people with HIV or AIDS. 707 268-2132',
 ];
 
 helplinesContent = [
@@ -30,8 +30,8 @@ helplinesContent = [
 ];
 
 moreContent = [
-    '<a href="https://cdpueblo.com/">Centro de Pueblo</a> support for people who are indigenous, Latinx, and/or immigrants. Sanctuary Garden 11th & F, Arcata. ICE hotline 707­-200-8091',
+    '<a href="https://www.cdpueblo.com/">Centro de Pueblo</a> support for people who are indigenous, Latinx, and/or immigrants. Sanctuary Garden 11th & F, Arcata. ICE hotline 707­-200-8091',
     '<a href="https://www.blackhumboldt.org">Black Humboldt</a> supports and celebrates Black & Brown communities',
-    '<a href="https://a1aa.org/humsenior.org">A1AA</a> and the <a href="https://humsenior.org/">Humboldt Senior Resource Center</a> offer resources for people 60+ and their family caregivers; A1AA also serves people 18+ with disabilities',
-    'Lots more <a href="humboldtgov.org/DocumentCenter/View/54880/>Humboldt County info</a>,
+    '<a href="https://www.a1aa.org/humsenior.org">A1AA</a> and the <a href="https://humsenior.org/">Humboldt Senior Resource Center</a> offer resources for people 60+ and their family caregivers; A1AA also serves people 18+ with disabilities',
+    'Lots more <a href="https://www.humboldtgov.org/DocumentCenter/View/54880/>Humboldt County info</a>',
 ];
