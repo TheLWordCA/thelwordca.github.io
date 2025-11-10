@@ -9,7 +9,7 @@ lesbianWomenContent = [
 ];
 
 queerContent = [
-    '<a href="https://www.queerhumboldt.org/">Queer Humboldt</a> individual therapy, support groups, community events, and more including a <a href="https://www.queerhumboldt.org/hate-event-reporting-portal">hate event reporting portal</a>'.
+    '<a href="https://www.queerhumboldt.org/">Queer Humboldt</a> individual therapy, support groups, community events, and more including a <a href="https://www.queerhumboldt.org/hate-event-reporting-portal">hate event reporting portal</a>',
     '<a href="https://www.inkpeople.org/dreammaker-data/redwoodpride">Redwood Pride</a> supporting and building LGBTQIA community. 1st & 3rd Sunday except January. 12 - 2 pm Jefferson Center, 1000 B st. Eureka.',
     '<a href="mailto:HumboldtsPride@gmail.com">Lost Coast Pride</a> Pride Ride and Ferndale Pride march.',
     '<a href="https://www.dnlgbtq.org/">Del Norte LGBTQ Resources Project</a> resources and info. Pride & other events. weekly gatherings and more',
@@ -20,12 +20,18 @@ queerContent = [
 ];
 
 helplinesContent = [
-    "Raven Youth Services for ages 16-­25. Services include housing assistance. 24hr hotline 707-­444-­2273.",
-    "North Coast Rape Crisis Team 24 hour sexual assault crisis line 707 445 2882. Also support groups and education",
-    "Humboldt Domestic Violence Services support groups and 24 hr support line 707 443 6042",
+    '<a href="https://hoovenm.wixsite.com/youth-service-bureau/the-raven-project">Raven Youth Services</a> for ages 16-­25. Services include housing assistance. 24hr hotline 707-­444-­2273',
+    '<a href="https://ncrct.org/">North Coast Rape Crisis Team</a> 24 hour sexual assault crisis line 707 445 2882. Also support groups and education',
+    '<a href="https://https://hdvs.org/">Humboldt Domestic Violence Services</a> support groups and 24 hr support line 707 443 6042',
+    'Healing from Harm support group 2nd & 4th Wed., 5:30 - 6:30pm. Queer Humboldt. <a href="mailto:aisha@queerhumboldt.org">email Aisha</a> to sign up',
+    '<a href="https://aahumboldtdelnorte.org/meetings/rocketed-into-the-queer-dimension/">LGBTQIA AA</a> Moss Oak Commons, 1905 Alliance Rd, Arcata. Sunday 12 - 1pm',
+    '<a href="https://www.alt2su-humboldt.com/">Alternatives to Suicide Humboldt"</a> peer led. Zoom, Mondays 6 - 7:30pm',
+    '<a href="https://www.oanorthcoast.org">Overeaters Anonymous</a> meetings in Eureka/Crescent City & online',
 ];
 
 moreContent = [
-    "Centro de Pueblo support for people who are indigenous, Latinx, and/or immigrants. Sanctuary Garden 11th & F, Arcata. ICE hotline 707­-200-8091.",
-    "two"
+    '<a href="https://cdpueblo.com/">Centro de Pueblo</a> support for people who are indigenous, Latinx, and/or immigrants. Sanctuary Garden 11th & F, Arcata. ICE hotline 707­-200-8091',
+    '<a href="https://www.blackhumboldt.org">Black Humboldt</a> supports and celebrates Black & Brown communities',
+    '<a href="https://a1aa.org/humsenior.org">A1AA</a> and the <a href="https://humsenior.org/">Humboldt Senior Resource Center</a> offer resources for people 60+ and their family caregivers; A1AA also serves people 18+ with disabilities',
+    'Lots more <a href="humboldtgov.org/DocumentCenter/View/54880/>Humboldt County info</a>,
 ];
