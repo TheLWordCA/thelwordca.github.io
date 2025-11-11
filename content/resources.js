@@ -3,7 +3,7 @@ lesbianWomenContent = [
     '<a href="https://digitalcommons.humboldt.edu/l-word/">LWord Digital Archive back issues</a> (currently 1988 - 93)',
     '<a href="https://www.lconline.org/">Lesbian Connection</a>- free worldwide forum of news & ideas for by and about lesbians',
     '<a href="https://www.humboldt.edu/womens-resource-center">CPH Women’s Resource Center</a> 826-4216 menstrual & safer sex supplies; events.',
-    '<a href="https://bghp.org/">Breast & GYN Health Project Help</a> finding preventative breast health & navigating breast or gynecologic cancers. 707 825-8345',
+    '<a href="https://bghp.org/">Breast & GYN Health Project Help</a> finding preventative breast health & navigating breast or gynecologic cancers. 707-825-8345',
     '<a href="https://www.plannedparenthood.org/health-center/california/eureka/95503/eureka-health-center-2301-90200">Planned Parenthood Eureka</a> preventative, gynecological, reproductive, and gender affirming care; medical & surgical abortions. 707 442-5700.',
     '<a href="https://opendoorhealth.com/locations/arcata-community-health-centers-center/">Arcata Community Health Center</a> preventative, gynecological, & gender affirming care. 707 826-8610',
 ];
@@ -26,6 +26,7 @@ helplinesContent = [
     'Healing from Harm support group 2nd & 4th Wed., 5:30 - 6:30pm. Queer Humboldt. <a href="mailto:aisha@queerhumboldt.org">email Aisha</a> to sign up',
     '<a href="https://aahumboldtdelnorte.org/meetings/rocketed-into-the-queer-dimension/">LGBTQIA AA</a> Moss Oak Commons, 1905 Alliance Rd, Arcata. Sunday 12 - 1pm',
     '<a href="https://www.alt2su-humboldt.com/">Alternatives to Suicide Humboldt</a> peer led. Zoom, Mondays 6 - 7:30pm',
+    '<a href="https://www.hachr707.org/">HACHR</a> (Humboldt Area Center for Harm Reduction): harm reduction incl. syringe services, sex worker resource kits, medication-assisted treatment, and case management. 707-407-6013',
     '<a href="https://www.oanorthcoast.org">Overeaters Anonymous</a> meetings in Eureka/Crescent City & online',
 ];
 
