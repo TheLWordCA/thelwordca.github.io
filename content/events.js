@@ -11,6 +11,6 @@ events = {
         { 
             "title": "Andrea Gibson at the Summitt",
             "body": 'The Summitt galley & womens sports lounge is showing "Come see Me in the Good Light". The documentary about poet Andrea Gibson, at 6 pm, will be followed by an open mic to share her poetry at 8 pm.  Rooftop, 1521 G st. Arcata. 21+.'
-        },
+        }
     ]
 };
