@@ -7,7 +7,7 @@ events = {
         {   
             "title": "Hands Off Venezuela",
          "body": "Speak out against our government's random killings and threats against Venezualan people at the Humboldt County Courthouse, 4:30-6 pm Thursday Nov. 20."
-        }
+        },
         { 
             "title": "Andrea Gibson at the Summitt",
             "body": 'The Summitt galley & womens sports lounge is showing "Come see Me in the Good Light". The documentary about poet Andrea Gibson, at 6 pm, will be followed by an open mic to share her poetry at 8 pm.  Rooftop, 1521 G st. Arcata. 21+.'
