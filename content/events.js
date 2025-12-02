@@ -1,8 +1,8 @@
 events = {
     "events": [
         {
-            "title": "Trans Remembrance and Resistance",
-            "body": 'There are events in Del Norte and around Humboldt Bay to remember Trans* lives lost to violence and to celebrate and support our communites.  In Del Norte, the DNATL LGBTQ Project is hosting a Transgender Day of Remembrance & Resilience on Nov. 20th starting at 6pm. St Pauls Episcopal, 220 E Macken St. Crescent City. Around Humboldt Bay, The Eureka Sisters are hosting a week of events, including speed friending, a talking circle, film festival, art & poetry, the TRANScending the Veil ritual on the Arcata Plaza at 5 pm on Thursday Nov. 20, a music and drag show, and more. <a href="https://www.eurekasisters.org/">eurekasisters.org</a>'
+            "title": "World AIDS Day",
+            "body": 'World AIDS Day raises awareness, supports the fight against the disease, and remembers people who died.<b> In Del Norte</b>, the DNATL LGBTQ Project and the Del Norte County library are showing "Long Time Companion" about the early days of the epidemic on Dec. 4 4-6 pm at 190 Price Mall, Crescent City.  At <b>Cal Poly Humboldt</b>, a square of the AIDS memorial quilt will be at the library from Dec. 1-13. There will also be a zoom discussion about Asian-American AIDS activism Dec. 5, 5-6 pm in the library fishbowl, and a screening of Wilhelminas War, about a southern grandmother fighting to support her loved ones with HIV, on Dec. 10, 5:30-7:30 in the Fishbowl. And the <b>Eureka Sisters of Perpetual Indulgence</b> will be doing a Community Art Project 10-2 and a Ritual at noon on the Arcata Plaza on Dec 6. The North Coast AIDS project "https://humboldtgov.org/620/North-Coast-AIDS-Project-NorCAP/">NorCAP</a> provides ongoing local resources for HIV prevention and support for people living with it.'
         },
         {   
             "title": "Hands Off Venezuela",
