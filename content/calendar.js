@@ -25,5 +25,6 @@ calendar = [
 'Jan 28 - Surviving Digital Sexual Assault, 4-5pm, Lib 114, 826-5228'
              '- Queer Climb, Far North, 6pm'
 'Jan 29 - Scissor Sisters 6pm Arwen 599-8562'
-            '- Out for Business, Phatsy Kline's, 5-7pm'
-'Jan 31- Know Your Rights, time tba, info@cdpueblo.com'
+            "- Out for Business, Phatsy Kline's, 5-7pm"
+'Jan 31- Know Your Rights, time tba, info@cdpueblo.com']
+
