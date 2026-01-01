@@ -1,12 +1,16 @@
 events = {
     "events": [
         {
-            "title": "World AIDS Day",
-            "body": 'World AIDS Day raises awareness, supports the fight against the disease, and remembers people who died.<b> In Del Norte</b>, the DNATL LGBTQ Project and the Del Norte County library are showing "Long Time Companion" about the early days of the epidemic on Dec. 4 4-6 pm at 190 Price Mall, Crescent City.  At <b>Cal Poly Humboldt</b>, a square of the AIDS memorial quilt will be at the library from Dec. 1-13. There will also be a zoom discussion about Asian-American AIDS activism Dec. 5, 5-6 pm in the library fishbowl, and a screening of Wilhelminas War, about a southern grandmother fighting to support her loved ones with HIV, on Dec. 10, 5:30-7:30 in the Fishbowl. And the <b>Eureka Sisters of Perpetual Indulgence</b> will be doing a Community Art Project 10-2 and a Ritual at noon on the Arcata Plaza on Dec 6. The North Coast AIDS project <b> <a href="https://humboldtgov.org/620/North-Coast-AIDS-Project-NorCAP/">NorCAP</a></b> provides ongoing local resources for HIV prevention and support for people living with it.'
+            "title": "Resistance and Remembrance",
+            "body": 'Satsuki Ima will present on "Resistance and Remembrance" at Cal Poly Humboldts celebration of the Fred Korematsu Day of Civil Liberties and the Constitution. Ina is a licensed psychotherapist specializing in community trauma. Her activism has included cofounding Tsuru for Solidarity, a nonviolent, direct-action project of Japanese American social justice advocates working to end detention sites. Fred Korematsu was a Japanese-American civil rights activist who resisted interment as a  Japanese American during WWII and got his  conviction overturned by the Supreme Court. January 26, 5:00 to 6:30 pm. CPH Native Forum (BSS 162). Free. <a href="https://www.hapihumboldt.org">hapihumboldt.org</a>.'
         },
         {   
-            "title": "Gather Hold Ground",
-         "body": "Gather Hold Ground brings together works carrying a central message of solidarity, memory, and community connection by Lilia Hernandez Galusha, including a zine library and hooked textiles. Benefits Centro del Pueblo. At the Reese Bullen Gallery, first floor of Art B at Cal Poly Humboldt through Dec. 13."
+            "title": "Know Your Rights/Rapid Response",
+         "body": "Centro del Pueblo and the Humboldt Rapid Response Network invite migrant communities and people of all culture, languages, and families to a Know Your Rights info session. You'll learn about your rights, get to know the Rapid Response Network, and share tools to protect ourselves as a community. Saturday Jan. 31, time/location TBD. For details, email  info@cdpueblo.com or call 707-683-5293."
+        },
+        {
+             "title": "Protest Jan. 17",
+             "body": 'An Arcata Indivisible group is organizing a local protest on Jan. 17 connected to protests around the country against all the many ways the current federal administration is hurting people, the planet, and democracy.  At the Eureka Courthouse, Saturday Jan. 17 noon-2 p.m. More details soon at <a href="https://www.fiftyfifty.one/events"> fiftyfifty.one/events</a> (select "more events"). See you there!'
         }
     ]
 };
