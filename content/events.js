@@ -10,7 +10,7 @@ events = {
         },
         {
              "title": "Protest Jan. 17",
-             "body": 'An Arcata Indivisible group is organizing a local protest on Jan. 17 connected to protests around the country against all the many ways the current federal administration is hurting people, the planet, and democracy.  At the Eureka Courthouse, Saturday Jan. 17 noon-2 p.m. More details soon at <a href="https://www.fiftyfifty.one/events"> fiftyfifty.one/events</a> (select "more events"). See you there!'
+             "body": "An Arcata Indivisible group is organizing a Women's March Free America Walkout protest on Jan. 17 connected to protests around the country against all the many ways the current federal administration is hurting people, the planet, and democracy.  At the Eureka Courthouse, Saturday January 17 noon-2 pm. <a href="https://action.womensmarch.com/events/humboldt-county-free-america-rally"> More details here</a>. See you there!"
         }
     ]
 };
