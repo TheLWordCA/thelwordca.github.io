@@ -1,9 +1,9 @@
 events = {
     "events": [
         {
-            "title": "ICE Out Jan 10 & 11",
-            "body": "Lots of local events this weekend as part of national calls to resist ICEs attacks on our communites.  On Saturday Jan. 10 Centro del Pueblo is holding a Vigil in memory of all of those who lost their lives during ICE raids and in detention centers at the Sanctuary Garden, 11th & F in Arcata, 11 am-1pm.  There will also be an ICE OUT demonstration in Eureka starting at noon at the Humboldt County Courthouse.  On Sunday, Jan 11 there will be ICE OUT demonstrations at noon at the courthouse in Eureka and at 410 Main Street in Trinidad."
-         },
+            "title": "Honor MLK Day",
+            "body": 'The Eureka branch of the NAACP invites you to a community clebration of Martin Luther King Day.  It starts at 1 pm on Saturday Jan 17 at the Adorni Center in Eureka.  Music, information, food, and community.  Cal Poly Humboldt is inviting students, staff, and community to a half-day of service on Monday Jan. 19 <a href= "https://www.humboldt.edu/youth-educational-services/upcoming-events/mlk">humboldt.edu/youth-educational-services/upcoming-events/mlk</a>.'
+                },
         {
             "title": "Resistance and Remembrance",
             "body": 'Satsuki Ima will present on "Resistance and Remembrance" at Cal Poly Humboldts celebration of the Fred Korematsu Day of Civil Liberties and the Constitution. Ina is a licensed psychotherapist specializing in community trauma. Her activism has included cofounding Tsuru for Solidarity, a nonviolent, direct-action project of Japanese American social justice advocates working to end detention sites. Fred Korematsu was a Japanese-American civil rights activist who resisted interment as a  Japanese American during WWII and got his  conviction overturned by the Supreme Court. January 26, 5:00 to 6:30 pm. CPH Native Forum (BSS 162). Free. <a href="https://www.hapihumboldt.org">hapihumboldt.org</a>.'
