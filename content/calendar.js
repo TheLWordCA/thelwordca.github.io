@@ -21,7 +21,7 @@ calendar = [
 'Jan 17 - Protest, courthouse, 12-2pm',
       '- 10 Years Fierce, 7pm, Playhouse',
 'Jan 18 - Cheryl Rau Memorial, 3pm, HUUF',
-'Jan 19- MLK Day, Adorni Center, 1 pm, eurekanaacp.org',
+'Jan 19- MLK Day, Adorni Center Eureka, 1 pm, eurekanaacp.org',
 'Jan 23 - Queer Poetry Workshop 4-5:30pm alexis@queerhumboldt.org',
 'Jan 25- L-Word layout deadline lword@sonic.net',
 'Jan 26- Resistance & Remembrance, 5-6:30pm, CPH Native forum',
