@@ -2,7 +2,7 @@ events = {
     "events": [
         {
             "title": "Honor MLK Day",
-            "body": 'The Eureka branch of the NAACP invites you to a community clebration of Martin Luther King Day.  It starts at 1 pm on Saturday Jan 17 at the Adorni Center in Eureka.  Music, information, food, and community.  Cal Poly Humboldt is inviting students, staff, and community to a half-day of service on Monday Jan. 19 <a href= "https://www.humboldt.edu/youth-educational-services/upcoming-events/mlk">humboldt.edu/youth-educational-services/upcoming-events/mlk</a>.'
+            "body": 'The Eureka branch of the NAACP invites you to a community clebration of Martin Luther King Day.  It starts at 1 pm on Monday Jan 19 at the Adorni Center 1011 Waterfront Drive in Eureka.  Music, information, food, and community. And Cal Poly Humboldt is inviting students, staff, and community to a half-day of service on Monday Jan. 19 <a href= "https://www.humboldt.edu/youth-educational-services/upcoming-events/mlk">humboldt.edu/youth-educational-services/upcoming-events/mlk</a>.'
                 },
         {
             "title": "Resistance and Remembrance",
