@@ -16,7 +16,6 @@ calendar = [
      '--ICE protest, noon, Humboldt Cty courthouse, Eureka',
 'Jan 11 - dyke hike, 11am, suejh@humboldt1.com',
      ' --ICE protest, noon, Humboldt Cty courthouse, Eureka',
-'Jan 14/28 - Healing from Relationship Harm 5:30-6:30pm, Aisha@queerhumboldt.org',
 'Jan 15- Trans* Adult Potluck 5:30-7:30 julie@queerhumboldt.org',
 'Jan 17 - Protest, courthouse, 12-2pm',
       '- 10 Years Fierce, 7pm, Playhouse',
