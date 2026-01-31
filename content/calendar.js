@@ -29,5 +29,5 @@ calendar = [
 'Feb. 26 - Scissors Sisters , 6 pm, McKinleyville 831.295.4021'
  '- Out for Business, Phatsy Klines, 5-7 pm'
 'Feb 27- Big Mood Queer party 8 pm Richards Goat Arcata'
-'Feb. 28- 1st Annual Black Heritage Ball, Wharfinger Bldg, 5pm'
+'Feb. 28- 1st Annual Black Heritage Ball, Wharfinger Bldg, 5pm']
 
