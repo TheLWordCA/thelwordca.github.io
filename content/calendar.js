@@ -1,33 +1,34 @@
 calendar = [
-'Jan 1- Sapphic Swim, noon, 497-0049',
-'Jan 2- 2SLGBTQIA+ Safespace Crescent City Methodist Church every Fri 6pm',
-'Jan 3 - Trans Support Group Cresc. Cty Meth. Chr. 1st & 3rd Sat 5pm',
-     'Sisters of Perpetual Indulgence, Jefferson Center Eka, 12pm',
-'Jan 4 - LGBTQIA+ AA 1944 Central McKinleyville Every Sun, noon',
-     '- Sourdough Focaccia, 11am-1pm, aisha@queerhumboldt.org',
-'Jan 5 - EYE Youth Club 837 H Arc., Mondays 3pm',
-     '- Queer Tarot Journey, Mondays 7-8:30 Zoom michaela@queerhumboldt.org',
-'Jan 6 - Adult Trans Support Group, 12-1, Tuesdays',
-'Jan 7 - Queer & Peer Support (16-24) 523 T St Eureka, every Wed 5-5:50pm',
-'Jan 7/15 - QWEERS CPH faculty/staff gathering, qweerss.humboldt.edu',
-'Jan 8 - Queer Stitch & Sip, The Center Mck., 5:30-6:30pm',
-'Jan 8, 22, 29 - Anna & The Situation, Speakeasy, 7-10pm, 21+',
-'Jan. 10 - Vigil in memory of those who lost thier lives to ICE 11am-1 pm 11th & F Arcata',
-     '--ICE protest, noon, Humboldt Cty courthouse, Eureka',
-'Jan 11 - dyke hike, 11am, suejh@humboldt1.com',
-     ' --ICE protest, noon, Humboldt Cty courthouse, Eureka',
-'Jan 14/28 - Healing from Relationship Harm 5:30-6:30pm, Aisha@queerhumboldt.org',
-'Jan 15- Trans* Adult Potluck 5:30-7:30 julie@queerhumboldt.org',
-'Jan 17 - Protest, courthouse, 12-2pm',
-      '- 10 Years Fierce, 7pm, Playhouse',
-'Jan 18 - Cheryl Rau Memorial, 3pm, HUUF',
-'Jan 19- MLK Day, Adorni Center Eureka, 1 pm, eurekanaacp.org',
-'Jan 23 - Queer Poetry Workshop 4-5:30pm alexis@queerhumboldt.org',
-'Jan 25- L-Word layout deadline lword@sonic.net',
-'Jan 26- Resistance & Remembrance, 5-6:30pm, CPH Native forum',
-'Jan 28 - Surviving Digital Sexual Assault, 4-5pm, Lib 114, 826-5228',
-             '- Queer Climb, Far North, 6pm',
-'Jan 29 - Scissor Sisters 6pm Arwen 599-8562',
-            "- Out for Business, Phatsy Kline's, 5-7pm",
-'Jan 31- Know Your Rights, time tba, info@cdpueblo.com']
+'Feb 1-28 Black Liberation Month, blackhumboldt.com/black­liberation­month'
+'Feb 1-14 Black History Timeline tour display, Cal Poly Humboldt Library'
+'Feb 1-28 Black History Timeline tour display, Eureka Library'
+'Feb 2- DNATL Pride planning, UMC Social Hall or zoom, email dnlgbtq@gmail.com for link'
+'Feb 4- Mindfulness for Queers, every Wed. 4:30 pm Aisha@queerhumboldt.org'
+'Feb 6-2SLGBTQIA+ Safespace Crescent City Methodist Church every Fri 6pm'
+   '-Common Denominator anti-imperialist benefit show, 6pm, $5 NOTAFLOF'
+   '- hot honey rag­ dance class, Artists on A Dance Studio, Eureka, 6:30­-8pm'
+'Feb 7 - Indivisible Protest, Arcata Plaza, 11am'
+  '- Dyke Hike, Redwood NP, caravan 11am, suejh@humboldt1.com or 822-3405'
+  '- Eureka Sisters of Perpetual Indulgence, 11 am, 1000 B Eureka'
+  "- Black Humboldt Speakers’ Series, Clarke Museum & live stream, free, 2:30-3:30pm"
+  '- Trans Support Group Crescent City Methodist Church 1st & 3rd Sat 5pm'
+  "- Galentine's Day Follies BGHP Fundraiser, Eagle House, door 7pm, show 8pm"
+'Feb 8- repair cafe, 9:30-2, Arcata Community Center.'
+   '- No Butch Blues potluck. Pierson Park McK, 11am-2pm, humbutches@proton.me'
+'Feb 11- Dr Loretta Ross, Gutswurrak Student Activities Center, 5:30-7pm, humboldt.edu/umoja/events'
+'Feb 13-15- Vagina Monologues, Eureka Theater, Fri/Sat doors 7pm, show 8; Sun doors 1pm'
+'Feb 15- Lesbian Brunch, 11am, Arcata. jlynnrubin@yahoo.com or takgnp@aol.com'
+    '- Pal-entines Day Sip and Paint The Summit Arcata, 11:30am'
+    '- L-Word poetry deadline, lword@sonic.net'
+'Feb 16- Protest, Eureka Courthouse, noon'
+'Feb 17- Claire Hsu Acomando, Love and Rutabaga, CPH Library fishbowl, 1-2pm'
+'Feb 19 -Trans* Adult Potluck Social, 5:30-7:30pm, julie@queerhumboldt.org.'
+'Feb 20 - Queer Poetry Workshop, 5:30-7:30pm, alexis@queerhumboldt.org'
+'Feb 21- Humboldt Roller Derby, 6pm, Redwood Acres, humboldtrollerderby.com'
+'Feb. 25 - Queer Climb, Far North Gym, Arcata 6pm'
+'Feb. 26 - Scissors Sisters , 6 pm, McKinleyville 831.295.4021'
+ '- Out for Business, Phatsy Klines, 5-7 pm'
+'Feb 27- Big Mood Queer party 8 pm Richards Goat Arcata'
+'Feb. 28- 1st Annual Black Heritage Ball, Wharfinger Bldg, 5pm'
+]
 
