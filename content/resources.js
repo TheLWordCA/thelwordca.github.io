@@ -22,7 +22,7 @@ queerContent = [
 helplinesContent = [
     '<a href="https://hoovenm.wixsite.com/youth-service-bureau/the-raven-project">Raven Youth Services</a> for ages 16-­25. Services include housing assistance. 24hr hotline 707-­444-­2273',
     '<a href="https://ncrct.org/">North Coast Rape Crisis Team</a> 24 hour sexual assault crisis line 707 445 2882. Also support groups and education',
-    '<a href="https://https://hdvs.org/">Humboldt Domestic Violence Services</a> support groups and 24 hr support line 707 443 6042',
+    '<a href="https://hdvs.org/">Humboldt Domestic Violence Services</a> support groups and 24 hr support line 707 443 6042',
     'Healing from Harm support group 2nd & 4th Wed., 5:30 - 6:30pm. Queer Humboldt. <a href="mailto:aisha@queerhumboldt.org">email Aisha</a> to sign up',
     '<a href="https://aahumboldtdelnorte.org/meetings/rocketed-into-the-queer-dimension/">LGBTQIA AA</a> Moss Oak Commons, 1905 Alliance Rd, Arcata. Sunday 12 - 1pm',
     '<a href="https://www.alt2su-humboldt.com/">Alternatives to Suicide Humboldt</a> peer led. Zoom, Mondays 6 - 7:30pm',
@@ -32,7 +32,7 @@ helplinesContent = [
 
 moreContent = [
     '<a href="https://www.cdpueblo.com/">Centro de Pueblo</a> support for people who are indigenous, Latinx, and/or immigrants. Sanctuary Garden 11th & F, Arcata. ICE hotline 707­-200-8091',
-    '<a href="https://www.blackhumboldt.org">Black Humboldt</a> supports and celebrates Black & Brown communities',
+    '<a href="https://www.blackhumboldt.com">Black Humboldt</a> supports and celebrates Black & Brown communities',
     '<a href="https://www.a1aa.org/humsenior.org">A1AA</a> and the <a href="https://humsenior.org/">Humboldt Senior Resource Center</a> offer resources for people 60+ and their family caregivers; A1AA also serves people 18+ with disabilities',
     'Lots more <a href="https://www.humboldtgov.org/DocumentCenter/View/54880/">Humboldt County info</a>',
 ];
