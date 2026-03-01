@@ -13,6 +13,7 @@ calendar = [
 'March 7 Know Your Rights training, 2-4pm, DNR Community Room (39051 Hwy 96, Orleans)',
 'March 7 Tarot and Tea, 2-4pm, mackay@queerhumboldt.org',
 'Mar. 8 International Womens Day Celebration, 7pm, Redwood Raks, Arcata',
+     "Women's Day Protest, 12-2pm, Eureka courthouse. action.womensmarch.com/events/humboldt-county-free-america",
 'March 9 Kate Hitt on Ruth Mountaingrove, 12pm, Playhouse',
      '-Outliers & Outlaws, 7pm, Playhouse',
 'March 11 Women in Revolution, 4-6pm, Food Sovereignty Lab CPH',
