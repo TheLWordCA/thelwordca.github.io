@@ -15,6 +15,6 @@ events = {
         {
             "title": "Dancing in the Rain",
             "body": 'Support the North Coast Rape Crisis Team at their now-annual Gala on May 2. The theme is Old Hollywood Glam and there will be food, music, dancing, and of course lots of opportunities to support the NCRCT.  Tickets $125 (and up), at <a href="https://ncrct.org/gala">ncrct.org/gala</a>.'
-            },
+        },
     ]
 };
