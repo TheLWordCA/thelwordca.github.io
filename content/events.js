@@ -12,5 +12,8 @@ events = {
             "title": "Womens Environmental Justice Conference",
              "body": '<b>Native Women in Western Systems of Education</b> is a space to listen and learn from Native Women on their experiences in systems of education.There will be keynote presentations, workshops, and panels. At the Native American Forum, CPH 9am - 5pm Satuday April 25. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGiS7DqxCvtJ_k8hJw3zYfIGPgEmvMXdFaelHvMYeyNe6hWQ/viewform">here</a>.'
         }
+        {
+            "title": "Dancing in the Rain",
+            "body": 'Support the North Coast Rape Crisis Team at their now-annual Gala on May 2. The theme is Old Hollywood Glam and there will be food, music, dancing, and of course lots of opportunities to support the NCRCT.  Tickets $125 (and up), at <a href="https://ncrct.org/gala">ncrct.org/gala</a>.'
     ]
 };
