@@ -10,7 +10,7 @@ events = {
         },
         {   
             "title": "Womens Environmental Justice Conference",
-             "body": '<b>Native Women in Western Systems of Education </b> is a space to listen and learn from Native Women on their experiences in systems of education.There will be keynote presentations, workshops, and panels. At the Native American Forum, CPH 9am - 5pm Satuday April 25.!'
+             "body": '<b>Native Women in Western Systems of Education</b> is a space to listen and learn from Native Women on their experiences in systems of education.There will be keynote presentations, workshops, and panels. At the Native American Forum, CPH 9am - 5pm Satuday April 25. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGiS7DqxCvtJ_k8hJw3zYfIGPgEmvMXdFaelHvMYeyNe6hWQ/viewform">here</a>.'
         }
     ]
 };
