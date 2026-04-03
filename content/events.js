@@ -6,11 +6,11 @@ events = {
                 },
         {
             "title": "Keep Speaking Out",
-            "body": 'As the news about what our government is doing gets more terrifying every day, it was wonderful to see so many of your at the big demo in Eureka on March 28. Weekly demonstrations continue at noon on Saturday in Trinidad (410 Main street) and Arcata (on the Plaza), and noon on Sundays in Ferndale (by the gazebo at City Hall). There is also a call for a general strike on May 1.  If you want to do more, there are local folks writing letters/postcards to voters, good candidates locally and nationally who can use your support, and many local organizations doing good work to support the folks who are suffering most.'
+            "body": 'The news about what our government is doing gets more apalling every day, and it was wonderful to see so many of you at the big demo in Eureka on March 28. Weekly demonstrations continue at noon on Saturday in Trinidad (410 Main street) and Arcata (on the Plaza), and noon on Sundays in Ferndale (by the gazebo at City Hall). There is also a call for a general strike on May 1.  If you want to do more, there are local folks writing letters/postcards to voters, good candidates locally and nationally who can use your support, and many organizations doing good work to support the folks who are suffering most.'
         },
         {   
-            "title": "Resistance Continues",
-             "body": 'In addition to the IWD protest on March 8, the FiftyfiftyOne folks are calling for a big <b> No Kings 3</b> protest on March 28, so we will gather again at the Humboldt County Courthouse at noon that Saturday.  See you there!'
+            "title": "Womens Environmental Justice Conference",
+             "body": '<b>Native Women in Western Systems of Education </b> is a space to listen and learn from Native Women on their experiences in systems of education.There will be keynote presentations, workshops, and panels. At the Native American Forum, CPH 9am - 5pm Satuday April 25.!'
         }
     ]
 };
