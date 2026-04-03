@@ -1,8 +1,8 @@
 events = {
     "events": [
         {
-            "title": "Social Justice Summit",
-            "body": 'The Cal Poly Humboldt Social Justice, Equity & Inclusion Center is organizing the 32nd annual summit from March 2 through 6. The keynote speaker is Amy Bowers Cordalis-- Yurok tribal member, fisherwoman, attorney, and mother who supports and leads tribal  efforts to protect sovereignty, lands, and waters, including the historic Klamath Dam removal project. Friday March 6, 12:30, Kate Buchanan Room.  March 4th, 9-10am, "Girls Voices from Kampala, Uganda" examines how gender, poverty, and structural barriers shape access to education and participation in social change. Nelson Hall 102. Other topics include dance and culture: Afro-Brazilian, Hip-Hop, Folklorico, and in displaced communities on the Thai-Myanmar border; the ICE response on campus; addressing our local opioid crisis (with hands-on Naloxone training),  reproductive justice,.. See all events at <a href="https://www.humboldt.edu/sjei/sjs">humboldt.edu/sjei/sjs</a>.'
+            "title": "Take Back the Night",
+            "body": ''The Cal Poly Humboldt Women's Resource Center is holding events to speak out against sexual violence.  On Tuesday April 14, the <b>Clothesline Project</b>, on the University quad from 4-6 pm, will display shirts by survivors of sexual violence or in honor of people who did not survive. A simultaneous Free Market offers mutual aid and a chane to make your own shirts. On Friday March 14, the evening begins with a <b>Survivor Speakout</b>, a safe space to share personal stories, in the Banquet room next to the Depot from 4-6 pm. The march to <b>Take Back the Night</b> starts at 8:30 pm at the Library Circle and goes through Arcata, ending at the Plaza. At 10pm a <b>Silent Vigil</b> holds space for those who have lost their lives to violence. <br />.'
                 },
         {
             "title": "Womens Herstory Month",
