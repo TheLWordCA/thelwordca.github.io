@@ -35,3 +35,4 @@ calendar = [
 'April 30 Scissor Sisters, 6pm, Vaiva at 831.295.4021',
 'April 30 Out for Business, 5-7 pm, Phatsy Klines lounge, 129 2nd Eureka',
 'May 2 NCRCT gala, 5:30pm, Arcata Community Center, ncrct.org/gala',
+   ]
