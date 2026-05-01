@@ -1,9 +1,5 @@
 events = {
     "events": [
-        {   
-            "title": "Womens Environmental Justice Conference",
-             "body": '<b>Native Women in Western Systems of Education</b> is a space to listen and learn from Native Women on their experiences in systems of education.There will be keynote presentations, workshops, and panels. At the Native American Forum, CPH 9am - 5pm Satuday April 25. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGiS7DqxCvtJ_k8hJw3zYfIGPgEmvMXdFaelHvMYeyNe6hWQ/viewform">here</a>.'
-        },
         {
             "title": "May Day Rally, March, and Movie",
             "body": 'Friday May 1 is a General Strike. Stand in solidarity with all workers--no work, no school, no shopping. That evening, join the Humboldt & Del Norte Central Labor Council and Centro del Pueblo in a rally and march. The rally, with music and speakers, is at the Humboldt County courthouse from 5-6:30 pm.  At 6:35, people will march to the Eureka Theater where Organized Labor Movie Night starts with local organizations tabling, food trucks, and concessions, followed by a 7:30 screening of Inglorious Basterds. More info at <a href="https://www.mobilize.us/mobilize/event/930219/">mobilize.us</a>.'
