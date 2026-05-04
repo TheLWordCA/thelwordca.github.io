@@ -2,7 +2,7 @@ events = {
     "events": [
        {
             "title": "Atalanta's Victory Run",
-            "body": 'Runners, walkers, strollers, and participants of all abilities are welcome to the annual walk/run benefitting the Breast & Gyn Health Project. All are welcome to participate in the race, but only those identifying as women will be eligible for awards. The run start at 10 am May 10th. Early-bird pricing $18 for 2-mile course, $23 for 5-mile course. Both courses start and finish at the Arcata co-op, rain or shine. <a href="https://atalanta-run.com">atalanta-run.com</a>'
+            "body": 'Runners, walkers, strollers, and participants of all abilities are welcome to the annual walk/run benefitting the Breast & Gyn Health Project. All are welcome to participate in the race, but only those identifying as women will be eligible for awards. The run start at 10 am May 10th. Early-bird pricing $18 for 2-mile course, $23 for 5-mile course. Both courses start and finish at the Arcata co-op, rain or shine. <a href="https://www.atalanta-run.com">atalanta-run.com</a>'
         },
         {
             "title": "Women's Herbal Symposium",
