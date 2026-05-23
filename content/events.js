@@ -1,6 +1,14 @@
 events = {
     "events": [
-       {
+        {
+            "title": "Pride Picnic",
+                "body": "Celebrate Pride Month at an all-ages community picnic on Saturday June 6 from noon-3pm at Eureka's Da' Yas park (2625 Summer Street, eurekaca.gov/636/Da-Yas-Park). Bring a picnic, and food to share if you want, or get food from Pupuseria San Miguel. Vouchers for pupusas available in limited quantities.
+We'll be in the group picnic area, next to the giant egrets. There's space to spread out on the lawn behind us. The park is accessible and has bathrooms, courts, and wonderful play equipment.
+A low-key space to connect and celebrate with the larger queer community. Organized by a small group of  folks from the L-word, Queer Humboldt, and Redwood Pride with financial assistance from Queer Humboldt.
+If you want to help with the event (setup, cleanup, or just general assistance) email Julie: julie@queerhumbolt.org."
+                    },
+        
+        {
             "title": "Atalanta's Victory Run",
             "body": 'Runners, walkers, strollers, and participants of all abilities are welcome to the annual walk/run benefitting the Breast & Gyn Health Project. All are welcome to participate in the race, but only those identifying as women will be eligible for awards. The run start at 10 am May 10th. Early-bird pricing $18 for 2-mile course, $23 for 5-mile course. Both courses start and finish at the Arcata co-op, rain or shine. <a href="https://www.atalanta-run.com">atalanta-run.com</a>'
         },
