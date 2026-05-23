@@ -2,7 +2,7 @@ events = {
     "events": [
         {
             "title": "Pride Picnic",
-                "body": "Celebrate Pride Month at an all-ages community picnic on Saturday June 6 from noon-3pm at Eureka's Da' Yas park (2625 Summer Street). Bring a picnic, and food to share if you want, or get food from Pupuseria San Miguel. Vouchers for pupusas available in limited quantities. We'll be in the group picnic area, next to the giant egrets. There's space to spread out on the lawn behind us. The park is accessible and has bathrooms, courts, and wonderful play equipment. A low-key space to connect and celebrate with the larger queer community. Organized by a small group of folks from the L-word, Queer Humboldt, and Redwood Pride with financial assistance from Queer Humboldt. If you want to help with the event (setup, cleanup, or just general assistance) email Julie: julie@queerhumbolt.org."
+                "body": 'Celebrate Pride Month at an all-ages community picnic on Saturday June 6 from noon-3pm at Da Yas park, 2625 Summer Streetin Eureka. Bring a picnic, and food to share if you want, or get food from Pupuseria San Miguel. Vouchers for pupusas available in limited quantities. Well be in the group picnic area, next to the giant egrets. Theres space to spread out on the lawn behind us. The park is accessible and has bathrooms, courts, and wonderful play equipment. A low-key space to connect and celebrate with the larger queer community. Organized by a small group of folks from the L-word, Queer Humboldt, and Redwood Pride with financial assistance from Queer Humboldt. If you want to help with the event (setup, cleanup, or just general assistance) email Julie: julie@queerhumbolt.org.'
          },        
         {
             "title": "Pride Season",
