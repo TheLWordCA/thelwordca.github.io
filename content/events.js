@@ -6,7 +6,7 @@ events = {
         },
         {
             "title": "Juneteenth",
-            "body": 'There will be events from June 18th through 21st. The day festival is Saturday the 20th from 12-7pm at Halvorsen Park. We'll be tabling there-- if you'd like to take a shift, email lword@sonic.net. More event details at <a href="https://www.blackhumboldt.com/juneteenth-celebration">blackhumbolt.com</a>'
+            "body": 'There will be events from June 18th through 21st. The day festival is Saturday the 20th from 12-7pm at Halvorsen Park. We'll be tabling there-- if you'd like to take a shift, email lword@sonic.net.'
         }
     ]
 };
