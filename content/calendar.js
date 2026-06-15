@@ -37,4 +37,5 @@ calendar = [
 'June 26 Cosmic Bowling Party, Tsunami Lanes, 4-7pm, C.C., DNLGBTQ.org/dnatl-pride-2026',
 'June 27 DNATL Pride 10am-9pm, United Methodist Church C.C. DNLGBTQ.org/dnatl-pride-2026',
 'June 27 Lesbian brunch 11am Stacy Sue 440-897-5864',
+'June 27 Community Pride Dinner, UCC church, 900 Hodgson st. Eureka 5:30-7:30 pm. 707 445 5488', 
 ];
