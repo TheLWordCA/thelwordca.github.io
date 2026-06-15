@@ -6,7 +6,7 @@ events = {
         },
         {
             "title": "Juneteenth",
-            "body": 'Humboldt Black & Brown folks invite you to join in celebrateing freedom from June 18 through 21. The day festival is Saturday June 20 from 12 to 7pm at Halvorsen Park. We will be tabling there, if you want to help, email lword@sonic.net. And on Sunday the 21st the <b>Black Brunch and Ball</b> features ballroom culture, Queer Black performance, brunch and community at Synapsis in Eureka 11 am-1 pm.  More events and details at <a href="https://www.blackhumboldt.com/juneteenth-celebration">blackhumbolt.com</a>.'
+            "body": 'Humboldt Black & Brown folks invite you to join in celebrating freedom from June 18 through 21. The <b> Juneteeth festival </b> is Saturday June 20 from 12 to 7pm at Halvorsen Park. We will be tabling there, if you want to help, email lword@sonic.net. And on Sunday the 21st the <b>Black Brunch and Ball</b> features ballroom culture, Queer Black performance, brunch and community at Synapsis in Eureka 11 am-1 pm.  More events and details at <a href="https://www.blackhumboldt.com/juneteenth-celebration">blackhumbolt.com</a>.'
         }
     ]
 };
