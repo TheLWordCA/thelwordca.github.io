@@ -10,7 +10,7 @@ events = {
         },
         {
             "title": "LGBTQ Art Show Humboldt 2026",
-            "body": 'Submissions are open for this year's show. Art will be displayed August 1-30. Find out more and submit an application at lgbtqartshowhumboldtca.webador.com'
+            "body": "Submissions are open for this year's show. Art will be displayed August 1-30. Find out more and submit an application at lgbtqartshowhumboldtca.webador.com"
         }
     ]
 };
