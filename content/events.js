@@ -6,7 +6,10 @@ events = {
         },
         {
             "title": "All of Us 250 June 27",
-            "body": 'Make your voice heard about what you want your country to be like at 250 years!  All of us 250 is a nationwide mobilization for Trusth, Equality, and Freedom. Join us at the Eureka Courthouse from 12-2pm on Saturday June 27.  Food Not Bombs will be holding a food drive; all groups welcome to table. Email 50501humboldt@gmail.com with questions or concerns.'
+            "body": 'Make your voice heard about what you want your country to be like at 250 years!  All of us 250 is a nationwide mobilization for Truth, Equality, and Freedom. Join us at the Eureka Courthouse from 12-2pm on Saturday June 27.  Food Not Bombs will be holding a food drive; all groups welcome to table. Email 50501humboldt@gmail.com with questions or concerns.'
+
+            "title": "LGBTQ Art Show Humboldt 2026",
+            "body": 'Submissions are open for this year's show. Art will be displayed August 1-30. Find out more and submit an application at lgbtqartshowhumboldtca.webador.com.',
         }
     ]
 };
