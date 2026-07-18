@@ -1,8 +1,8 @@
 events = {
     "events": [
         {
-             "title": "Queer CaberGay",
-             "body": 'Redwood Curtain is extending Pride Month into July!  Join the talented performers of Redwood Curtain and feel the beauty of the love and fun that the queerness of musical theater has to offer.  This will be a pair of performances that will make you smile and laugh and want to come back and see it again. July 10 & 11, 8 pm, Fifth & D St. theater, $20 <a href="https://www.redwoodcurtain.com/">redwoodcurtain.com</a>'
+             "title": "Resist ICE and support Voting Rights",
+             "body": '50501 Humboldt is calling for folks to be at the courthouse from 12-2 on Saturday July 18 to protest two recent killings by ICE agenst, in Texas and Maine--and also the recent detention of a Humboldt man in Wyoming.  <br /> And Indivisible Arcata is calling on us to "Make Good Trouble" in honor of John L. Lewis, againts everything the current federal regime is doing to make it harder for people to vote.  Also 12-2 Saturday July 20, Arcata Plaza, southwest corner.'
         },
         {
             "title": "Disability Pride",
