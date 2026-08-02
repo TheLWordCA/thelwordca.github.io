@@ -10,7 +10,6 @@ lesbianWomenContent = [
 
 queerContent = [
     '<a href="https://www.queerhumboldt.org/">Queer Humboldt</a> individual therapy, support groups, community events, and more including a <a href="https://www.queerhumboldt.org/hate-event-reporting-portal">hate event reporting portal</a>',
-    '<a href="https://www.inkpeople.org/dreammaker-data/redwoodpride">Redwood Pride</a> supporting and building LGBTQIA community. 1st & 3rd Sunday except January. 12 - 2 pm Jefferson Center, 1000 B st. Eureka.',
     '<a href="mailto:HumboldtsPride@gmail.com">Lost Coast Pride</a> Pride Ride and Ferndale Pride march.',
     '<a href="https://www.dnlgbtq.org/">Del Norte LGBTQ Resources Project</a> resources and info. Pride & other events. weekly gatherings and more',
     'College of the Redwoods Queer Students Union, weekly when school is in session. 707 476-4255',
