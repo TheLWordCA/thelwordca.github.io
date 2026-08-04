@@ -18,7 +18,7 @@ events = {
         },
         {
             "title": "<i>Wowzer</i> in Brookings",
-            '<i>Wowzer</i> is a new film about our friend Joanie Lindenmeyer and her 3 books, Nun Better: An Amazing Love Story, Joyously Free: Stories & Tips for LGBTQ+ People, Parents and Allies and Healing Religious Hurts: Stories & Tips to Find Love and Peace. It premiers at the Wild River Film Festival in Brookings, OR August 14-16, 4 pm Fri./Sat, 6 Sunday. Details soon at <a href="https://www.wildriversfilmfestival.com/festival-events">wildriversfilmfestival.com</a>.'
+            "body": '<i>Wowzer</i> is a new film about our friend Joanie Lindenmeyer and her 3 books, Nun Better: An Amazing Love Story, Joyously Free: Stories & Tips for LGBTQ+ People, Parents and Allies and Healing Religious Hurts: Stories & Tips to Find Love and Peace. It premiers at the Wild River Film Festival in Brookings, OR August 14-16, 4 pm Fri./Sat, 6 Sunday. Details soon at <a href="https://www.wildriversfilmfestival.com/festival-events">wildriversfilmfestival.com</a>.'
         }
    ]
 };
