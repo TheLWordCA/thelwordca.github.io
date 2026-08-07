@@ -1,8 +1,8 @@
 events = {
     "events": [
         {
-            "title": "LGBTQ Art Show Humboldt 2026",
-            "body": 'A Variety of Visual Art will be on display at the Two Street Art Lab, 527 2nd Eureka through the month of August, Mon-Fri 10am-3pm..<a href="https://lgbtqartshowhumboldtca.webador.com/">lgbtqartshowhumboldtca</a>'
+            "title": "Vigil for lives lost to ICE",
+            "body": "Centro del Pueblo is hosting a vigil for people who have died in ICE enforcement or ICE dentention on Saturday August 8, 11 am, at the Sanctuary Garden in Arcata. Bring flowers, a candle, or just yourself. Stay after for Know Your Rights training."
         },
         {
              "title": "Arcata Lantern Floating Ceremony",
