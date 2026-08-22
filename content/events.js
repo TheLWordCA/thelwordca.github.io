@@ -7,7 +7,6 @@ events = {
         {
              "title": "Bingo Season continues",
             "body": 'Join the Eureka Sisters of Perpetual Indulgence in another fun evening of fundraising, this time for the North Coast Rape Crisis team. <b> Full Moon Fantasy</b> is on Saturday September 12 at the Eureka Womens club. Doors at 5, game at 6, tickets $25 adv, $35 door.  <a href="https://www.eurekasisters.org">eurekasisters.org</a>.'
-        },
         }
    ]
 };
