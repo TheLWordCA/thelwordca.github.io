@@ -2,7 +2,7 @@ events = {
     "events": [
         {
             "title": "Vigil for lives lost to ICE and Sanctuary Day Celebration",
-            "body": 'Centro del Pueblo is hosting biweekly <b>vigils for people who have died in ICE enforcement or ICE dentention</b>. The next vigil will be on Saturday August 22 at 11 am, at the Sanctuary Garden in Arcata. Bring flowers, a candle, or just yourself. Stay after for Know your Rights and Rapid Response Network training. And on Labor Day, Sept. 7, join Centro del Pueblo to Celebrate Sanctuary at the <b>I Street Block Party,</b> noon-6 pm on I street between 6th & 7th, Arcata. Music, dance, food, art, and fun.  Benefits Centro del Pueblo.'
+            "body": 'Centro del Pueblo is hosting biweekly <b>vigils for people who have died in ICE enforcement or ICE dentention</b>. The next vigil will be on Saturday September 5 at 11 am, at the Sanctuary Garden in Arcata. Bring flowers, a candle, or just yourself. Stay after for Know your Rights and Rapid Response Network training. <br /> And on Labor Day, Sept. 7, join Centro del Pueblo to Celebrate Sanctuary at the <b>I Street Block Party,</b> noon-6 pm on I street between 6th & 7th, Arcata. Music, dance, food, art, and fun.  Benefits Centro del Pueblo.'
         },
         {
              "title": "Bingo Season continues",
