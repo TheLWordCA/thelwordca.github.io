@@ -10,6 +10,6 @@ events = {
         },
               "title": "Resist & Fight Back",  
             "body": 'This November is a critical opportunity for all of us to be part of stopping some of the damage being done to us, our friends and allies, our communities, people around the world and our planet by the current U.S. government. Make sure you are registered, vote, donate or work for candidates who speak for sanity, and encourage others to do the same.  Make connections at local weekly demos-- Saturday in Eureka (courthouse), Arcata (on the Plaza), and Trinidad (410 Main street) and Sundays, noon, in Ferndale (by the gazebo at City Hall). Women in Black are at the courthouse Tuesdays at noon and Ferndale City Hall Fridays at 5pm. We hear that theres a nationwide demo planned for October 17. See you out there.' 
-     }
+        }
    ]
 };
