@@ -6,7 +6,7 @@ events = {
         },
         {
             "title": "Drag and More at the Cultural Arts Festival",
-            "body": 'The Eureka Cultural Arts festival is a weekend of art, music, theater, food, crafts, and film, mostly within a few blocks of Old Town Eureka Sept. 25-27.  It includes a film about cultural burning, Taiko drumming, West African, Aztec, and Lao dance, stories of Wigi, and much more.  "Drag me to the Museum" is at the Clarke Museum from 6-730 pm on Saturday. All Arts Festival events are free and they also list selected other nearby events (Dolly Parton Singalong, . See the full schedule <a href="https://www.eurekaculturalartsdistrict.org/culturecommonsfestival-schedule">here</a>.'
+            "body": 'The Eureka Cultural Arts festival is a weekend of art, music, theater, food, crafts, and film, mostly within a few blocks of Old Town Eureka Sept. 25-27.  It includes a film about cultural burning, Taiko drumming, West African, Aztec, and Lao dance, stories of Wigi, and much more.  "Drag me to the Museum" is at the Clarke Museum from 6-730 pm on Saturday. All Arts Festival events are free and they also list selected other nearby events (Dolly Parton Singalong at the Eureka theater Saturday night!). See the full schedule <a href="https://www.eurekaculturalartsdistrict.org/culturecommonsfestival-schedule">here</a>.'
         },
         {
               "title": "Resist & Fight Back",
