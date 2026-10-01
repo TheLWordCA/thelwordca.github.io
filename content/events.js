@@ -5,8 +5,12 @@ events = {
             "body": 'Join Queer Humboldt, Two Feathers, the Wiyot Tribe, Blue Lake Rancheria, and your community in celebrating Two-Spirit people on the North Coast on Oct 17, 10-4 at HCOE, 901 Myrtle, Eureka. Keynote speaker Angel C. Fabian (Tlahuizpaplotal in ceremony) is the Executive Director of BAAITS (Bay Area American Indian Two-Spirits). There will be presentations, panels, and poetry. All ages, free food and goodies. Sign up <a href="https://hqr.la/ed70141c">here</a> and email info@queerhumboldt.org with questions.'
         },
         {
-            "title": "Witchin for the Kitchen",
-            "body":  'Join the Eureka Sisters of Perpetual Indulgence at their last Bingo of the season, benefitting the Eureka Womens Club.  Food & drinks, costumes, raffles, and BINGO. Tickets and info at <a href="https://www.eurekasisters.org">eurekasisters.org.</a>'
+            "title": "Witchin' for the Kitchen",
+            "body":  'Join the Eureka Sisters of Perpetual Indulgence at their last Bingo of the season, benefitting the Eureka Womens Club, on October 10 at the Eureka Womens Club.  Food & drinks, costumes, raffles, and BINGO. Tickets and info at <a href="https://www.eurekasisters.org">eurekasisters.org.</a>'
+        },
+        {
+            "title": "Eureka Chinatown Monument Celebration",
+            "body": 'Come celebrate the opening of the Eureka Chinatown Monument, remembering the Chinese people who lived in Old Town before they were forcibly removed in 1885. Dancing, music, food, and history. October 11, 1-4, 1st & E Eureka. <a href="https:www.hapihumboldt.org">hapihumboldt.org</a>.'
         },
         {
               "title": "Resist & Fight Back",
