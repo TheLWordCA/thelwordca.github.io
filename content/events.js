@@ -2,11 +2,11 @@ events = {
     "events": [
         {
             "title": "Redwood Coast Two-Spirit Conference",
-            "body": 'Join Queer Humboldt, Two Feathers, the Wiyot Tribe, Blue Lake Rancheria, and your community in celebrating Two-Spirit people on the North Coast on Oct 17, 10-4 at  HCOE, 901 Myrtle, Eureka. Keynote speaker Angel C. Fabian (Tlahuizpaplotal in ceremony) is the Executive Director of BAAITS (Bay Area American Indian Two-Spirits). There will be presentations, panels, and poetry. All ages, free food and goodies.  Sign up <a href="https://hqr.la/ed70141c">here</a> and email info@queerhumboldt.org with questions.'
+            "body": 'Join Queer Humboldt, Two Feathers, the Wiyot Tribe, Blue Lake Rancheria, and your community in celebrating Two-Spirit people on the North Coast on Oct 17, 10-4 at HCOE, 901 Myrtle, Eureka. Keynote speaker Angel C. Fabian (Tlahuizpaplotal in ceremony) is the Executive Director of BAAITS (Bay Area American Indian Two-Spirits). There will be presentations, panels, and poetry. All ages, free food and goodies. Sign up <a href="https://hqr.la/ed70141c">here</a> and email info@queerhumboldt.org with questions.'
         },
         {
-            "title": "Witchin' for the Kitchen",
-            "body":  'Join the Eureka Sisters or Perpetual Indulgence at their last Bingo of the season, benefitting the Eureka Womens Club.  Food & drinks, costumes, raffles, and more. Tickets and more info at <a href="https://www.eurekasisters.org">eurekasisters.org.</a>'
+            "title": "Witchin for the Kitchen",
+            "body":  'Join the Eureka Sisters of Perpetual Indulgence at their last Bingo of the season, benefitting the Eureka Womens Club.  Food & drinks, costumes, raffles, and BINGO. Tickets and info at <a href="https://www.eurekasisters.org">eurekasisters.org.</a>'
         },
         {
               "title": "Resist & Fight Back",
