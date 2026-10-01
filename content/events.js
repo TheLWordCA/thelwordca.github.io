@@ -1,12 +1,8 @@
 events = {
     "events": [
         {
-             "title": "Queer Folk Duo in Arcata",
-             "body": 'Irish singer-songwriter Grainne Hunt and San Diego drummer and vocalist Jules Stewart will be at the Arcata Playhouse this month. Their rich harmonies, heartfelt stories, and magnetic onstage chemistry remind audiences of the Indigo Girls or Brandi Carlisle. Saturday September 29, 7:30 pm Arcata Playhouse, $20.50. <a href="https://www.playhousearts.org">playhousearts.org</a>'
-        },
-        {
-            "title": "Drag and More at the Cultural Arts Festival",
-            "body": 'The Eureka Cultural Arts festival is a weekend of art, music, theater, food, crafts, and film, mostly within a few blocks of Old Town Eureka Sept. 25-27.  It includes a film about cultural burning, Taiko drumming, West African, Aztec, and Lao dance, stories of Wigi, and much more.  "Drag me to the Museum" is at the Clarke Museum from 6-730 pm on Saturday. All Arts Festival events are free and they also list selected other nearby events (Dolly Parton Singalong at the Eureka theater Saturday night!). See the full schedule <a href="https://www.eurekaculturalartsdistrict.org/culturecommonsfestival-schedule">here</a>.'
+            "title": "Redwood Coast Two-Spirit Conference",
+            "body": 'Join Queer Humboldt, Two Feathers, the Wiyot Tribe, Blue Lake Rancheria, and your community in celebrating Two-Spirit people on the North Coast on Oct 17, 10-4 at  HCOE, 901 Myrtle, Eureka. Keynote speaker Angel C. Fabian (Tlahuizpaplotal in ceremony) is the Executive Director of BAAITS (Bay Area American Indian Two-Spirits). There will be presentations, panels, and poetry. All ages, free food and goodies.  Sign up href="https://hqr.la/ed70141c">here</a> and email info@queerhumboldt.org with questions.'
         },
         {
               "title": "Resist & Fight Back",
