@@ -6,7 +6,7 @@ events = {
         },
         {
             "title": "Girl Trouble at the Playhouse",
-            "body": 'Our friends in "Girl Trouble", an all-female rock bank with deep country roots and a backyard-born spirit, will be at the Arcata Playhouse on Saturday October 17, 6 pm. Come enjoy the groove. Pay what you can.'
+            "body": 'Our friends in "Girl Trouble", an all-female rock bank with deep country roots and a backyard-born spirit, will be at the Arcata Playhouse on Saturday October 17, 6 pm. Come enjoy the groove. Pay what you can.<a href="https://www.playhousearts.org">playhousearts.org</a>.'
         },
         {
             "title": "Eureka Chinatown Monument Celebration",
