@@ -15,7 +15,7 @@ calendar = [
 'Oct 13,20,27 - Neurodivergent Online Support Group, 5-6p, Michaela@queerhumboldt.org',
 'Oct 15 -- Queer Bring Your Own Craft night, 5:30-7:30 pm, The Summitt, Arcata', 
 'Oct 17 - No Kings/Vote Early, 12-2, Eka Crthse',
-   '--2S Conference, 10-4, HCOE',
+   '--2 Spirit Conference, 10-4, HCOE',
    '--HRD, 5/6, Franchesci Hall Rdwd Acres',
    '--Girl Trouble, Plhs, 6pm',
    '--SoHum Pride, Olde Riverwood, 9pm-2am, 21+',
