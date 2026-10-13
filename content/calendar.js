@@ -13,6 +13,7 @@ calendar = [
 'Oct 11 - Chinatown Memorial Celebration, 1-4pm, 1st and E, Eureka',
      '--Indigenous Foods Festival, Wiyot Plaza CPH, 11am-5pm',
 'Oct 13,20,27 - Neurodivergent Online Support Group, 5-6p, Michaela@queerhumboldt.org',
+'Oct 15 -- Queer Bring Your Own Craft night, 5:30-7:30 pm, The Summitt, Arcata', 
 'Oct 17 - No Kings/Vote Early, 12-2, Eka Crthse',
    '--2S Conference, 10-4, HCOE',
    '--HRD, 5/6, Franchesci Hall Rdwd Acres',
