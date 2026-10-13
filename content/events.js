@@ -5,8 +5,8 @@ events = {
             "body": 'Join Queer Humboldt, Two Feathers, the Wiyot Tribe, Blue Lake Rancheria, and your community in celebrating Two-Spirit people on the North Coast on Oct 17, 10-4 at HCOE, 901 Myrtle, Eureka. Keynote speaker Angel C. Fabian (Tlahuizpaplotal in ceremony) is the Executive Director of BAAITS (Bay Area American Indian Two-Spirits). There will be presentations, panels, and poetry. All ages, free food and goodies. Sign up <a href="https://hqr.la/ed70141c">here</a> and email info@queerhumboldt.org with questions.'
         },
         {
-            "title": "Witchin' for the Kitchen",
-            "body":  'Join the Eureka Sisters of Perpetual Indulgence at their last Bingo of the season, benefitting the Eureka Womens Club, on October 10 at the Eureka Womens Club.  Food & drinks, costumes, raffles, and BINGO. Tickets and info at <a href="https://www.eurekasisters.org">eurekasisters.org.</a>'
+            "title": "Girl Trouble at the Playhouse",
+            "body": 'Our friends in "Girl Trouble", an all-female rock bank with deep country roots and a backyard-born spirit, will be at the Arcata Playhouse on Saturday October 17, 6 pm. Come enjoy the groove. Pay what you can.'
         },
         {
             "title": "Eureka Chinatown Monument Celebration",
