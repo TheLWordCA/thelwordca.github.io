@@ -1,8 +1,8 @@
 events = {
     "events": [
         {
-            "title": "Día de Muertos",
-            "body": 'Continue remembering those whove passed with Centro del Pueblo on Friday November 6 as we create an altar and share stories about Día de Muertos as it is celebrated in Mexico and across Latin America. Together, we will remember our loved ones and ancestors who have passed, honor their lives, and say goodbye until next year.'
+            "title":"Honoring Dolores Huerta",
+            "body": 'Join Centro del Pueblo at "Community, Unity, and Rights"--Celebrating Culture, Community, and the Fight for Migrant workers rights. We will get a last look (for now) at the exhibit of photographs of Migrant workers by David Bacon, create an alter to honor Dolores, and share food, music, and theater. Saturday Nov. 14, 4-7 pm, Centro Community Center 3008 Broadway Eureka.'
         },
         {
             "title": '"MILK" at the Goat',
